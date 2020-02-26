@@ -1,0 +1,15 @@
+{
+  "name": "carnet-api-example",
+  "version": "0.0.1",
+  "description": "Example of CarNet API usage",
+  "main": "example.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "CarNET team",
+  "license": "ISC"
+}

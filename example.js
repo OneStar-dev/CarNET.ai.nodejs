@@ -4,7 +4,7 @@ const util = require('util')
 
 const imageBuffer = fs.readFileSync( "./stinger.jpg");
 
-let apiUrl = "https://api.carnet.ai/mmg/detect";
+let apiUrl = "https://api.carnet.ai/v1/mmg/detect";
 let apiKey = "PUT_YOUR_API_KEY_HERE";
 
 
